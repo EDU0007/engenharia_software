@@ -1,11 +1,6 @@
 # <h1 align="center">engenharia_software-Grupo:</h1>
  ### Hi 👋
 1. O que é Engenharia de Software
- > R:A Engenharia de software é um dos principais responsáveis pelos sistemas que vemos hoje em dia. Ela cuida de toda parte técnica e científica desde o desenvolvimento até a gestão.
-No desenvolvimento a Engenharia nos possibilita criar jogos e software para computadores videogames e dispositivos móveis como tablets, smartphones.
-Na parte da gestão através dessa engenharia pode-se fazer o gerenciamento dos negócios e projetos das empresas que utilizam algum tipo de Software.
-
-
 2. Etapas e Processos de Desenvolvimento
 3. Modelos de Processo de Software
 4. Requisitos de Software e Engenharia de Requisitos
