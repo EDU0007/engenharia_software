@@ -7,4 +7,4 @@
 6. [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
  <h1 align="center">Rede sociais dos colaboradoes:</h1>
  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops)
+[<img src="https://avatars.githubusercontent.com/u/55513247?s=60&v=4&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops)
