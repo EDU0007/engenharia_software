@@ -1,14 +1,11 @@
 # engenharia_software-Grupo:
 Engenharia de Software:
- 
+ ### Hi 👋
 1. O que é Engenharia de Software
 2. Etapas e Processos de Desenvolvimento
 3. Modelos de Processo de Software
 4. Requisitos de Software e Engenharia de Requisitos
 6. [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
-7. <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
