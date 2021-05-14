@@ -16,7 +16,7 @@
 
 [<img src="https://avatars.githubusercontent.com/u/49046052?s=400&u=11dcfcfade3735117a4fb29fe909cc210378904d&v=4" width=115 > <br> <sub>Ismael Aquino</sub>](https://github.com/aquino-mael)
 
-[<img src="https://avatars.githubusercontent.com/u/61627687?v=4" width=115 > <br> <sub>
+[<img src="https://avatars.githubusercontent.com/u/61627687?v=4" width=115 > <br> <sub>]
 RHASSAN RODRIGUES SANTOS  </sub>](https://github.com/Rhassancoding)
 
 
