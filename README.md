@@ -14,7 +14,7 @@ Isaque Silva de Sousa  </sub>](https://github.com/isaquesil)
 
 [Rhassan Rodrigues Santos](https://github.com/Rhassancoding) 
 
-<Table border "1" width=1350 height=2000>
+<Table border "1" width=1350 height=800>
 <tr>
 <td colspan="3" height=80> Home Do Site </td> 
 </tr>
