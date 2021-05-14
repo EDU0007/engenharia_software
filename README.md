@@ -13,5 +13,5 @@
 Isaque Silva de Sousa  </sub>](https://github.com/isaquesil)
 
 [<img src="https://avatars.githubusercontent.com/u/61627687?v=4" width=115 > <br> <sub>
-Isaque Silva de Sousa  </sub>](https://github.com/Rhassancoding)
+RHASSAN RODRIGUES SANTOS  </sub>](https://github.com/Rhassancoding)
 
