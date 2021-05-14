@@ -15,5 +15,6 @@
     <td align="center"><a href="https://github.com/isaquesil"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/72052275?v=4&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width="100px;" alt=""/><br /><sub><b>Isaque Silva de Sousa</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/EDU0007"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55513247?s=60&v=4&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width="100px;" alt=""/><br /><sub><b>Eduardo santana</b></sub></a><br /></td>
    <td align="center"><a href="https://github.com/Rhassancoding"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61627687?v=4" width="100px;" alt=""/><br /><sub><b>RHASSAN RODRIGUES SANTOS</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hygorr23"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65869986?v=4" width="100px;" alt=""/><br /><sub><b>Ismael Aquino</b></sub></a><br /></td>
   </tr>
 </table>
