@@ -1,9 +1,9 @@
 # <h1 align="center">engenharia_software-Grupo:</h1>
  ### Hi 👋
-1. O que é Engenharia de Software
-2. Etapas e Processos de Desenvolvimento
-3. Modelos de Processo de Software
-4. Requisitos de Software e Engenharia de Requisitos
+1. <a href="https://github.com/EDU0007/engenharia_software/wiki/O-que-%C3%A9-Engenharia-de-Software%3F">O que é Engenharia de Software</a>
+2. <a href="https://github.com/EDU0007/engenharia_software/wiki/Etapas-e-Processos-de-Desenvolvimento">Etapas e Processos de Desenvolvimento</a>
+3. <a href="https://github.com/EDU0007/engenharia_software/wiki/Modelos-de-Processo-de-Softwares">Modelos de Processo de Software</a>
+4. <a href="https://github.com/EDU0007/engenharia_software/wiki/Requisitos-de-Software-e-Engenharia-de-Requisitos">Requisitos de Software e Engenharia de Requisitos</a>
 6. [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
  <h3 align="center"> Colaboradores:</h3>
  
