@@ -12,6 +12,8 @@
 [<img src="https://avatars.githubusercontent.com/u/72052275?v=4&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub>
 Isaque Silva de Sousa  </sub>](https://github.com/isaquesil)
 
+[<img src="https://avatars.githubusercontent.com/u/64994550?v=4" width=115 > <br> <sub>Geovany Fonseca  </sub>](https://github.com/isaquesil)
+
 [Rhassan Rodrigues Santos](https://github.com/Rhassancoding) 
 
 <table summary="Tabela contendo notas por grupo em relação a alunos e matérias.">
