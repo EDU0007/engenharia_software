@@ -14,21 +14,3 @@ Isaque Silva de Sousa  </sub>](https://github.com/isaquesil)
 
 [Rhassan Rodrigues Santos](https://github.com/Rhassancoding) 
 
-<Table border "1" width=1350 height=800>
-<tr>
-<td colspan="3" height=80> Home Do Site </td> 
-</tr>
-<tr>
-<td rowspan="4" width=150> [<img src="https://avatars.githubusercontent.com/u/55513247?s=60&v=4&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub>Eduardo santana  </sub>] </td> <td height=150> Home </td>
-<td rowspan="4" width=150> Imagem </td>
-</tr>
-<tr>
-<td> Home </td> 
-</tr>
-<tr>
-<td> Home </td> 
-</tr>
-<tr>
-<td> Home </td> 
-</tr>
-</table>
