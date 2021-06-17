@@ -1,7 +1,7 @@
 # <h1 align="center">Acesse a Nossa Wiki para obter mais informações que se Encontra Abaixo:</h1>
   ## Hi 👋
 
-6. [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
+ [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
  <h3 align="center"> Colaboradores:</h3>
  
 <table align="center">
