@@ -1,10 +1,6 @@
-# <h1 align="center">engenharia_software-Grupo:</h1>
+# <h1 align="center">Acesse a Nossa Wiki para obter mais informações que se Encontra Abaixo:</h1>
   ## Hi 👋
-### Sumário:
-1. <a href="https://github.com/EDU0007/engenharia_software/wiki/O-que-%C3%A9-Engenharia-de-Software%3F">O que é Engenharia de Software</a>
-2. <a href="https://github.com/EDU0007/engenharia_software/wiki/Etapas-e-Processos-de-Desenvolvimento">Etapas e Processos de Desenvolvimento</a>
-3. <a href="https://github.com/EDU0007/engenharia_software/wiki/Modelos-de-Processo-de-Softwares">Modelos de Processo de Software</a>
-4. <a href="https://github.com/EDU0007/engenharia_software/wiki/Requisitos-de-Software-e-Engenharia-de-Requisitos">Requisitos de Software e Engenharia de Requisitos</a>
+
 6. [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
  <h3 align="center"> Colaboradores:</h3>
  
