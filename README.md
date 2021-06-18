@@ -1,5 +1,5 @@
-# <h2 align="center">Acesse a Nossa Wiki para obter mais informações que se Encontra Abaixo:</h2>
-  ## Hi 👋
+# <h2 align="center">Engenharia de Software - Inteligência Artificial no transito de Imperatriz</h2>
+  ### Acesse nossa wiki abaixo:
 
 
 # [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
