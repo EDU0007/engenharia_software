@@ -1,5 +1,5 @@
 # <h2 align="center">Engenharia de Software - Inteligência Artificial no transito de Imperatriz</h2>
-  ### Acesse nossa wiki abaixo:
+  ### Acesse nossa wiki abaixo e veja algumas referencias sobre engenharia de software:
 
 
 # [Wiki](https://github.com/EDU0007/engenharia_software/wiki)
